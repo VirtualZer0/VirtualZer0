@@ -1,6 +1,6 @@
 # Welcome to VirtualZer0 GitHub profile!
 
-![LandscapeTwitch](https://user-images.githubusercontent.com/45962846/130303767-caa66958-5006-41bb-9510-1d2af23cbb53.png)
+![LandscapeGithub](https://user-images.githubusercontent.com/45962846/130304281-dea7f4e2-b9a8-4161-bf24-59708ffec587.png)
 
 | ![en-lang](https://user-images.githubusercontent.com/45962846/130303404-ce09c163-8e19-4572-aadf-624033998a02.png) [English version](https://github.com/VirtualZer0/VirtualZer0/blob/master/README.md) | ![ru-lang](https://user-images.githubusercontent.com/45962846/130303407-53e63cb1-e30c-4313-a80d-dc8ddbb0f4ee.png) Русская версия |
 | -------------------------------------------------: | ------------------------------------------------- |
