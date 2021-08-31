@@ -7,7 +7,7 @@
 
 👋 Hi, I'm a **🌎Web developer**. Main focus is web development in **Vue/Nuxt**, **TypeScript**, **SCSS**. Experience with **WebAudioAPI**, **WebSocket**, **RestAPI**, **GraphQL**, **Pixi.js**, **Electron**, **PWA**.
 
-🔸 Experience with **MySQL**, **PostgreSQL**, **SQLite** databases.
+🔸 Experience with **MySQL**, **MSSQL**, **PostgreSQL**, **SQLite** databases.
 
 🔸 Ability to work with **NPM**, **Yarn**, **Linux**, **Git**.
 
